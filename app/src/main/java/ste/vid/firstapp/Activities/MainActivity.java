@@ -1,9 +1,11 @@
-package ste.vid.firstapp;
+package ste.vid.firstapp.Activities;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import ste.vid.firstapp.R;
 
 
 public class MainActivity extends Activity {
